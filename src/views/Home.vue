@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Our Municipal App"/>
+    <HelloWorld msg="Welcome to Our Municipal App Beta Version"/>
   </div>
 </template>
 
